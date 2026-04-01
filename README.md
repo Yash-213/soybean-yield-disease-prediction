@@ -21,7 +21,7 @@ git pull origin main
 
 Create a branch for your task:
 
-git checkout -b feature/your-feature
+git checkout -b your-feature-name
 
 Commit regularly with clear messages:
 git add .
@@ -29,5 +29,5 @@ git commit -m "Brief description of your work"
 
 Push your branch and create a Pull Request when done:
 
-git push origin feature/your-feature
+git push origin your-feature-name
 ```
