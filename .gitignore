@@ -12,7 +12,6 @@ venv311/
 
 # ML Models (optional but recommended)
 *.pkl
-*.h5
 
 # OS files
 .DS_Store
@@ -24,3 +23,4 @@ uploads/
 data/
 
 settings.json
+
